@@ -1,0 +1,5 @@
+website pink - #ef5285
+
+corinthian pink - #FFA6D9 rgba - 255, 166, 217, cmyk(0,66,44,6)
+light mauve - #9161F2 rgba - 145, 97, 242, 1
+venice green - #6BFFB3 rgba - 107, 255, 179, 1
