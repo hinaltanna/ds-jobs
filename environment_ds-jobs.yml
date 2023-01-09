@@ -1,4 +1,4 @@
-name: eda-proj
+name: ds-jobs
 channels:
   - defaults
 dependencies:
@@ -371,4 +371,3 @@ dependencies:
     - trio-websocket==0.9.2
     - webdriver-manager==3.5.3
     - wsproto==1.1.0
-prefix: C:\Users\hinal\anaconda3\envs\eda-proj
