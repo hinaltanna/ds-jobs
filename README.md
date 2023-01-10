@@ -12,5 +12,6 @@ I developed and practiced a broad range of python data analytics skills to get a
 
 ## Resources
 
+- [Data Science Project from Scratch, by Ken Jee](https://www.youtube.com/watch?v=GmW4F6MHqqs)
 - [Selenium Tutorial: Scraping Glassdoor.com in 10 Minutes by Ömer Sakarya](https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905)
 - [Ordinance Survey API](https://www.ordnancesurvey.co.uk/business-government/products/code-point-open)
